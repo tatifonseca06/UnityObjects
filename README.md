@@ -8,15 +8,16 @@
 
 ## 🌍 ¿Qué hay en el mundo?
 
-- **🌳 Árboles y ramas** — robles imponentes y ramas dispersas que le dan personalidad al bosque
+- **🌳 Árboles** — robles imponentes que le dan personalidad al bosque
+- **🪵 Ramas** — ramas dispersas por el suelo del bosque
 - **🌸 Flores** — flores silvestres coloridas floreciendo por todo el terreno
 - **⛰️ Montañas** — elevaciones variadas con diversas texturas que cambian al escalar
-- **🌿 Arbustos y maleza** — vegetación densa llenando los espacios entre los árboles
+- **🌿 Arbustos** — vegetación densa llenando los espacios entre los árboles
 - **🍄 Champiñones** — pequeñas sorpresas escondidas en los rincones sombreados
 - **🪵 Troncos** — troncos caídos y cubiertos de musgo descansando en el suelo del bosque
 - **🌱 Césped** — pasto en múltiples capas cubriendo el suelo con variación natural
 - **💧 Río** — una simulación de agua tranquila serpenteando por el paisaje
-- **🪨 Rocas y piedras** — dispersas a lo largo de las orillas del río y por todo el terreno
+- **🪨 Piedras** — dispersas a lo largo de las orillas del río y por todo el terreno
 
 ---
 
